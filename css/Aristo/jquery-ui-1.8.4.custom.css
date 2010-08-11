@@ -811,4 +811,8 @@ border: solid 1px transparent;
     background: #85b2cb url(images/ui-bg_highlight-hard_80_85b2cb_1x100.png) 50% 50% repeat-x;
     -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;
 }
+/*
+ * jQuery UI AutoComplete @VERSION
+ *
+*/
 .ui-autocomplete {-moz-box-shadow: 0px 5px 10px rgba(0,0,0,0.8); -webkit-box-shadow: 0px 5px 10px rgba(0,0,0,0.8); box-shadow: 0px 5px 10px rgba(0,0,0,0.8);}
